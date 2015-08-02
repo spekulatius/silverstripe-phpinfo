@@ -6,6 +6,20 @@
  */
 class PHPInfoTask extends BuildTask {
 	/**
+	 * title of the task
+	 *
+	 * @var string
+	 */
+	public $title = 'Display PHPInfo information';
+
+	/**
+	 * description of the task
+	 *
+	 * @var string
+	 */
+	public $description = 'Displays the output of phpinfo() for this environment.';
+
+	/**
 	 * @param  SS_HTTPResponse $request
 	 */
 	public function run($request = null) {
