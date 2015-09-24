@@ -20,7 +20,7 @@ class PHPInfoTask extends BuildTask {
 	public $description = 'Displays the output of phpinfo() for this environment.';
 
 	/**
-	 * @param  SS_HTTPResponse $request
+	 * @param SS_HTTPResponse $request
 	 */
 	public function run($request = null) {
 		if (Permission::check('ADMIN') !== true) {
