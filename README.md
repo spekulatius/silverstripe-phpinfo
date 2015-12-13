@@ -1,5 +1,12 @@
 # SilverStripe PHPInfo module
 
+[![Build Status](https://api.travis-ci.org/spekulatius/silverstripe-phpinfo.svg?branch=master)](https://travis-ci.org/spekulatius/silverstripe-phpinfo)
+[![Latest Stable Version](https://poser.pugx.org/spekulatius/silverstripe-phpinfo/version.svg)](https://github.com/spekulatius/silverstripe-phpinfo/releases)
+[![Latest Unstable Version](https://poser.pugx.org/spekulatius/silverstripe-phpinfo/v/unstable.svg)](https://packagist.org/packages/spekulatius/silverstripe-phpinfo)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/spekulatius/silverstripe-phpinfo.svg)](https://scrutinizer-ci.com/g/spekulatius/silverstripe-phpinfo?branch=master)
+[![Total Downloads](https://poser.pugx.org/spekulatius/silverstripe-phpinfo/downloads.svg)](https://packagist.org/packages/spekulatius/silverstripe-phpinfo)
+[![License](https://poser.pugx.org/spekulatius/silverstripe-phpinfo/license.svg)](https://github.com/spekulatius/silverstripe-phpinfo/blob/master/license.md)
+
 Give you a chance to view the phpinfo() output as a task. Requires admin permissions.
 
 **Do not permanently install this! Only use this if you are know what you are doing!**
