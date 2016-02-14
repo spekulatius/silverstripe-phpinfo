@@ -1,18 +1,26 @@
 {
-	"name" : "spekulatius/silverstripe-phpinfo",
-	"description" : "Prints phpinfo as task for admins",
-	"type" : "silverstripe-module",
-	"license" : "BSD-3-Clause",
-	"keywords" : ["silverstripe","environment", "phpinfo"],
-	"authors" : [
-		{
-			"name" : "Peter Thaleikis",
-			"email" : "info@thaleikis.de",
-			"homepage" : "https://github.com/spekulatius"
-		}
-	],
-	"require" : {
-		"php": ">=4.0.0",
-		"silverstripe/framework": "~3.0"
-	}
+    "name": "spekulatius/silverstripe-phpinfo",
+    "description": "Prints phpinfo as task for admins",
+    "type": "silverstripe-module",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "silverstripe",
+        "environment",
+        "phpinfo"
+    ],
+    "authors": [
+        {
+            "name": "Peter Thaleikis",
+            "email": "info@thaleikis.de",
+            "homepage": "https://github.com/spekulatius"
+        }
+    ],
+    "require": {
+        "php": ">=4.0.0",
+        "silverstripe/framework": "~3.0"
+    },
+    "support": {
+        "issues": "https://github.com/spekulatius/silverstripe-phpinfo/issues"
+    },
+    "homepage": "https://github.com/spekulatius/silverstripe-phpinfo"
 }
