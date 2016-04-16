@@ -1,4 +1,4 @@
-# SilverStripe PHPInfo module
+# [SilverStripe PHPInfo module](https://github.com/spekulatius/silverstripe-phpinfo)
 
 [![Build Status](https://api.travis-ci.org/spekulatius/silverstripe-phpinfo.svg?branch=master)](https://travis-ci.org/spekulatius/silverstripe-phpinfo)
 [![Latest Stable Version](https://poser.pugx.org/spekulatius/silverstripe-phpinfo/version.svg)](https://github.com/spekulatius/silverstripe-phpinfo/releases)
