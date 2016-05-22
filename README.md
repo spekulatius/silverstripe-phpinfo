@@ -11,7 +11,7 @@ Give you a chance to view the phpinfo() output as a task. Requires admin permiss
 
 **Do not permanently install this! Only use this if you are know what you are doing!**
 
-## Why? ##
+## Why?
 
 Sometimes you have to work with servers you can't ssh into and get more information about e.g. installed packages or versions. This package allows you get the information if you have admin privileges.
 
@@ -43,3 +43,5 @@ For the installation you can either download the package, unzip it into your pro
    ```
 
 6. Deploy again onto the environment to remove the package from the server!
+
+## MISC: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/spekulatius/silverstripe-phpinfo/issues), [Contributing](https://github.com/FriendsOfSilverStripe/spekulatius/silverstripe-phpinfo/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/spekulatius/silverstripe-phpinfo/blob/master/license.md)
