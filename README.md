@@ -10,7 +10,7 @@ Sometimes you have to work with servers you can't ssh into and get more informat
 
 ### Requirements
 
-* PHP >= 4.0.0
+* PHP >= 5.6
 * SilverStripe Framework ~3.0.
 
 ### Usage
