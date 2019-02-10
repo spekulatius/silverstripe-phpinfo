@@ -1,9 +1,11 @@
 <?php
+
 /**
  * Prints out the php environment informations for admins.
  *
  * Can be useful if you can't run this command directly on the server because you haven't got the shell access.
  */
+
 class PHPInfoTask extends BuildTask
 {
     /**
