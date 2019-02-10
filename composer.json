@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Peter Thaleikis",
-            "homepage": "https://github.com/spekulatius"
+            "homepage": "https://bringyourownideas.com"
         }
     ],
     "require": {
@@ -21,5 +21,5 @@
     "support": {
         "issues": "https://github.com/spekulatius/silverstripe-phpinfo/issues"
     },
-    "homepage": "https://github.com/spekulatius/silverstripe-phpinfo"
+    "homepage": "https://bringyourownideas.com"
 }
